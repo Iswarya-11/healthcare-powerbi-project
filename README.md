@@ -71,3 +71,7 @@ How to Use
 Open the .pbix file using Power BI Desktop
 Navigate between dashboard views using the report tabs
 Apply slicers to filter data and explore insights interactively
+
+Conclusion
+
+The Power BI Healthcare Dashboard turns waitlist data into actionable insights, enabling faster decisions, better resource allocation, and improved patient care
